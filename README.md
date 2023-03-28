@@ -1,2 +1,2 @@
 # MKB-Printf
-C "printf" function.
+I remade the printf function to use in my future projects.
